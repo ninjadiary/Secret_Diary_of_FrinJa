@@ -1,0 +1,7 @@
+addHeader/s*
+getHeader/s*
+HostnameVerifier
+pinning
+pinner
+keystore
+pincert*
